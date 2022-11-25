@@ -1,0 +1,7 @@
+name = "poc2-part2-upstash"
+main = "src/index.ts"
+compatibility_date = "2022-11-07"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "<token>"
+UPSTASH_REDIS_REST_URL = "<url>"
